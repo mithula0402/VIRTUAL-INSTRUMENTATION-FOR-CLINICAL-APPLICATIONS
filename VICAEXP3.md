@@ -19,7 +19,7 @@ To find the sum of 'n' numbers using a FOR loop in LabVIEW.
 | 3 | Right-click on the **border of the FOR loop** → Select **Add Shift Register** |
 | 4 | Use **wiring** to make required connections inside the Block Diagram |
 | 5 | Enter input values in the **Front Panel** and **run** the program |
-
+ 
 ---
 
 ##  Front Panel Layout
