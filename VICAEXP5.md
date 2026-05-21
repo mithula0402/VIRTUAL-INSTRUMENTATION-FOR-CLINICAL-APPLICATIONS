@@ -36,7 +36,8 @@ To sort even numbers from a given set of numbers using a WHILE loop in an array 
 
 ## Output
 
-<img width="1920" height="1200" alt="VICAEXP5" src="https://github.com/user-attachments/assets/fc9c1927-7a71-44c1-b334-ba09e535ecd7" />
+<img width="1036" height="617" alt="image" src="https://github.com/user-attachments/assets/4a7ab161-4e2e-4d00-8010-e647dee9bd84" />
+
 
 ##  Result
 
